@@ -40,6 +40,10 @@ To chat and learn more, you can reach out via <a href="https://www.linkedin.com/
 <img src="./icons/git/git-original-wordmark.svg" title="git" alt="git" width="65" height="65"/>
 <img src="./icons/bash/bash-original.svg" title="Bash" alt="Bash" width="65" height="65"/>
 <img src="./icons/linux/linux-original.svg" title="Linux" alt="Linux" width="65" height="65"/>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 </p>
 
 ---
