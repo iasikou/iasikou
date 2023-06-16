@@ -49,4 +49,5 @@ To chat and learn more, you can reach out via <a href="https://www.linkedin.com/
 <h2 align="center">Badges</h3>
 
 <!--START_SECTION:badges-->
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/bcbba04c-4f6e-48bb-9263-8923a78a8ac1 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
