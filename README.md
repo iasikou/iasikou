@@ -10,6 +10,7 @@
 
 ---
 
+##
 <h2 align="center">About me </h3>
 </br>
 <h3 align="center">I’m working as a Cloud Engineer, enabling Engineering teams to develop, build and deploy products by providing state-of-the-art tools of the CICD stack.
@@ -43,3 +44,9 @@ To chat and learn more, you can reach out via <a href="https://www.linkedin.com/
 </p>
 
 ---
+
+##
+<h2 align="center">Badges</h3>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
