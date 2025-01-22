@@ -49,5 +49,7 @@ To chat and learn more, you can reach out via <a href="https://www.linkedin.com/
 <h2 align="center">Badges</h3>
 
 <!--START_SECTION:badges-->
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/cd3c2545-f990-4b67-ad11-62069b5fbe92 "CKAD: Certified Kubernetes Application Developer")
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/bf06a11e-d9c8-4903-908e-b67eb4c27603 "CKA: Certified Kubernetes Administrator")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/bcbba04c-4f6e-48bb-9263-8923a78a8ac1 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
